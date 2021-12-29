@@ -5,7 +5,7 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; A little HTML & PHP. Used to Git and Linux.</li>
 
-<li>🎓 &nbsp;Looking for further study.</li>
+<li>🎓 Looking for further study.</li>
 
 
 
