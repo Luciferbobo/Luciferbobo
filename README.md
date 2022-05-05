@@ -5,11 +5,15 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; A little HTML & PHP. Used to Git and Linux.</li>
 
+
 <li>🎓 Looking for further study.</li>
+
 
 <li>🎮 Love palying 3A games. Stay active on Steam. </li>
   
+  
 <li>🎨 Like anime and comics. qwq</li>
+
 
 <li>📄 Resume 👉https://luciferbobo.github.io/.</li>
 
