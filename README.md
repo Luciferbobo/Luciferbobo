@@ -7,5 +7,5 @@
 
 <li>🎓 Looking for further study.</li>
 
-<li>📄 This [page](https://luciferbobo.github.io/) is about my resume.
+<li>📄 This page 👉https://luciferbobo.github.io/ is about my resume.
 
