@@ -7,9 +7,9 @@
 
 <li>🎓 Looking for further study.</li>
 
-<li>🎮 Love palying 3A games. Stay active on Steam. 
+<li>🎮 Love palying 3A games. Stay active on Steam. </li>
   
-<li>🎨 Like anime and comics. qwq
+<li>🎨 Like anime and comics. qwq</li>
 
-<li>📄 Resume 👉https://luciferbobo.github.io/.
+<li>📄 Resume 👉https://luciferbobo.github.io/.</li>
 
