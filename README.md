@@ -7,5 +7,9 @@
 
 <li>🎓 Looking for further study.</li>
 
-<li>📄 This page 👉https://luciferbobo.github.io/ is about my resume.
+<li>🎮 Love palying 3A games. Stay active on Steam. 
+  
+<li>🎨 Like anime and comics. qwq
+
+<li>📄 Resume 👉https://luciferbobo.github.io/.
 
