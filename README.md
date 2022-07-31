@@ -3,7 +3,7 @@
 
 <li>🔨 Python is my captain. C++ is the second mate. 
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; A little HTML & PHP. Used to Git and Linux.</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; A little HTML & PHP. </li>
 
 <li>🎓 Looking for further study.</li><br>
 
