@@ -12,43 +12,6 @@ Here's Bobo.
 
 <li>📄 Find more about me in 👉<a href="https://luciferbobo.github.io/">my resume</a> </li><br>
 
-## Previous archived blogs📖
-  
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                <!--left-->
-<br>              
-<img src="https://g.csdnimg.cn/static/logo/favicon32.ico" alt="csdn" height="30"/> <a href="https://blog.csdn.net/weixin_45435206?type=blog">n.nothing's csdn</a> 
-              
-* My study blogs 
-              
-* 14 blogs
-              
-* Views: 60k+ 
-              
-* Likes: 200+
-            </td>
-            <td>
-                <!--right-->
-              
-<img src="https://github.com/Luciferbobo/Luciferbobo.github.io/blob/master/img/bobo.ico" alt="csdn" height="40"/> <a href="http://101.43.133.236">bobo's home</a> 
-              
-* My former personal homepage 
-
-* 12 blogs and 9 essays
-              
-* Here are also some of my games and Flash animations
-              
-* I own the domain byzeal.cn, but for now I don't utilize its DNS                             
-            </td>
-        </tr>
-    </table>
-</html>
-
-
-
 
 
 ## My skills 🔨
