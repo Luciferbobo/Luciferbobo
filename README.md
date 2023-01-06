@@ -24,7 +24,7 @@ Here's Bobo.
 * My former personal homepage 
 * Here are some essays, games and Flash animations
 * I own the domain byzeal.cn, but for now I don't utilize DNS
-* Hope theres a chance I can get byzeal.com someday
+* Hope someday theres a chance I can get byzeal.com 
 
 ## My skills 🔨
 
