@@ -1,8 +1,8 @@
 ## Hi there🙆‍♀️
 
-Here's Bobo.
+Here's bobo.
 
-<li>🔭 My research interests span 2D/3D computer vision, especially for neural radiance fields nowadays.</li><br>
+<li>🔭 My research interests span 2D/3D computer vision, especially for NeRF nowadays.</li><br>
 
 <li>🎓 I'm looking for graduate study opportunity.</li><br>
 
@@ -10,7 +10,7 @@ Here's Bobo.
   
 <li>🎨 Like anime and comics. qwq</li><br>
 
-<li>📄 Find more about me in 👉<a href="https://luciferbobo.github.io/">my resume</a> </li><br>
+<li>📄 Find more in 👉<a href="https://luciferbobo.github.io/">my resume</a> </li><br>
 
 
 
