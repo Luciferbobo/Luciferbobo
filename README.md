@@ -8,7 +8,7 @@ Here's bobo.
 
 <li>🎮 Love palying 3A games. Stay active on Steam. </li><br>
   
-<li>🎨 Like anime and comics. qwq</li><br>
+<li>🎨 Tech otaku. qwq</li><br>
 
 <li>📄 Find more in 👉<a href="https://luciferbobo.github.io/">my resume</a> </li><br>
 
