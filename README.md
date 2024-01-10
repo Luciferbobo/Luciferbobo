@@ -50,9 +50,14 @@ Here's bobo.
   <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="nodejs" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="tomcat" width="50" height="50"/>
 
+  <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="50" height="50"/>
+
+  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry" width="50" height="50"/>
+  
 
   
-  <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="50" height="50"/>
+
+  
 
 
 
