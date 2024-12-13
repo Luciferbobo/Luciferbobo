@@ -4,8 +4,6 @@ Here's bobo.
 
 <li>🔭 My research interests span 2D/3D computer vision, AIGC and LLMs.</li><br>
 
-<li>🎓 I'm looking for PhD opportunity.</li><br>
-
 <li>🎮 Love palying 3A games. Stay active on Steam. </li><br>
   
 <li>🎨 Tech otaku. qwq</li><br>
