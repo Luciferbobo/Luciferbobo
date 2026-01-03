@@ -1,12 +1,12 @@
 ## Hi there🙆‍♀️
 
-Here's bobo.
+I'm bobo👋
 
-<li>🔭 My research interests span 2D/3D computer vision, AIGC and LLMs.</li><br>
+<li>🔭 My research interests include 2D&3D Computer Vision, AIGC and LLMs. </li><br>
   
 <li>🎨 Tech otaku. qwq</li><br>
 
-<li>📄 Find more in 👉<a href="https://luciferbobo.github.io/">my resume</a> </li><br>
+<li>📄 Learn more about me 👉<a href="https://luciferbobo.github.io/">my resume</a> </li><br>
 
 
 
@@ -49,7 +49,8 @@ Here's bobo.
   <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="50" height="50"/>
 
   <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry" width="50" height="50"/>
-  
+
+  <img src="https://www.cocos.com/_nuxt/img/logo.b924db5.png" alt="raspberry" width="40" height="50"/>
 
   
 
