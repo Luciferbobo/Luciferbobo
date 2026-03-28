@@ -20,11 +20,8 @@ I'm bobo👋
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="opencv" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="50" height="50"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/182px-Matlab_Logo.png" alt="opencv" width="50" height="50"/>
-
-  
   
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css" width="50" height="50"/>
