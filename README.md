@@ -2,7 +2,7 @@
 
 I'm bobo👋
 
-<li>🔭 My research interests include 2D&3D Computer Vision, AIGC and LLMs. </li><br>
+<li>🔭 My research interests include Generative AI and MLLMs. </li><br>
   
 <li>🎨 Tech otaku. qwq</li><br>
 
