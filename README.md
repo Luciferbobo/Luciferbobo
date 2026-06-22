@@ -1,6 +1,6 @@
 ## Hi there🙆‍♀️
 
-I'm bobo👋
+I'm Boyu👋
 
 <li>🔭 My research interests include Generative AI and MLLMs. </li><br>
   
