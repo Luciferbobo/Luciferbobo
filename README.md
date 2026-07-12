@@ -1,14 +1,8 @@
 ## Hi there🙆‍♀️
 
-I'm Boyu👋
-
 <li>🔭 My research interests include Generative AI and MLLMs. </li><br>
-  
-<li>🎨 Tech otaku. qwq</li><br>
 
 <li>📄 Learn more about me 👉<a href="https://luciferbobo.github.io/">my resume</a> </li><br>
-
-
 
 ## My skills 🔨
 
